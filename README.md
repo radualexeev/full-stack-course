@@ -21,6 +21,12 @@
 - 📂 `lesson1/classwork` — конспекты и примеры с занятия  
 - 🏠 `lesson1/homework` — домашнее задание  
 
+
+## Lesson 2 — Git Advanced 
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+- 📂 `lesson1/classwork` — конспекты и примеры с занятия  
+- 🏠 `lesson1/homework` — домашнее задание  
+
 *(по мере прохождения курса будут добавляться задания и уроки)*
 
 ---
